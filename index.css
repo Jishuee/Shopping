@@ -196,6 +196,16 @@ h6
 	font-size: 100px;
 }
 
+#special
+{
+	height:500px;
+	width:500px;
+	border-radius: 10px;
 
+}
 
+#div_below
+{
+	padding: 10px 10%;
+}
 
