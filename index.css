@@ -227,3 +227,288 @@ margin-right: 5px;
 margin-bottom: 5px;
 cursor: pointer;
 }
+
+
+.rating {
+  direction: rtl;
+  display: inline-block;
+}
+
+.rating input {
+  display: none;
+}
+
+.rating label {
+  font-size: 2rem;
+  color: lightgray;
+  padding: 0.2rem;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+.rating label::before {
+  content: "★";
+}
+
+.rating input:checked ~ label {
+  color: gold;
+}
+
+.rating input:hover ~ label,
+.rating label:hover ~ label {
+  color: gold;
+}
+
+
+.rating1 input {
+  display: none;
+}
+
+.rating1 label {
+  font-size: 2rem;
+  color: lightgray;
+  padding: 0.2rem;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+.rating1 label::before {
+  content: "★";
+}
+
+.rating1 input:checked ~ label {
+  color: gold;
+}
+
+.rating3 {
+  direction: rtl;
+  display: inline-block;
+} 
+
+.rating3 input {
+  display: none;
+}
+
+.rating3 label {
+  font-size: 2rem;
+  color: lightgray;
+  padding: 0.2rem;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+.rating3 label::before {
+  content: "★";
+}
+
+.rating3 input:checked ~ label {
+  color: gold;
+}
+
+
+.rating4 {
+  direction: rtl;
+  display: inline-block;
+} 
+
+.rating4 input {
+  display: none;
+}
+
+.rating4 label {
+  font-size: 2rem;
+  color: lightgray;
+  padding: 0.2rem;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+.rating4 label::before {
+  content: "★";
+}
+
+.rating4 input:checked ~ label {
+  color: gold;
+}
+
+.rating5 {
+  direction: rtl;
+  display: inline-block;
+} 
+
+.rating5 input {
+  display: none;
+}
+
+.rating5 label {
+  font-size: 2rem;
+  color: lightgray;
+  padding: 0.2rem;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+.rating5 label::before {
+  content: "★";
+}
+
+.rating5 input:checked ~ label {
+  color: gold;
+}
+
+.rating6 {
+  direction: rtl;
+  display: inline-block;
+} 
+
+.rating6 input {
+  display: none;
+}
+
+.rating6 label {
+  font-size: 2rem;
+  color: lightgray;
+  padding: 0.2rem;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+.rating6 label::before {
+  content: "★";
+}
+
+.rating6 input:checked ~ label {
+  color: gold;
+}
+
+
+.rating7 {
+  direction: rtl;
+  display: inline-block;
+} 
+
+.rating7 input {
+  display: none;
+}
+
+.rating7 label {
+  font-size: 2rem;
+  color: lightgray;
+  padding: 0.2rem;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+.rating7 label::before {
+  content: "★";
+}
+
+.rating7 input:checked ~ label {
+  color: gold;
+}
+
+
+.rating8 {
+  direction: rtl;
+  display: inline-block;
+} 
+
+.rating8 input {
+  display: none;
+}
+
+.rating8 label {
+  font-size: 2rem;
+  color: lightgray;
+  padding: 0.2rem;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+.rating8 label::before {
+  content: "★";
+}
+
+.rating8 input:checked ~ label {
+  color: gold;
+}
+
+
+
+
+.rating9 {
+  direction: rtl;
+  display: inline-block;
+} 
+
+.rating9 input {
+  display: none;
+}
+
+.rating9 label {
+  font-size: 2rem;
+  color: lightgray;
+  padding: 0.2rem;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+.rating9 label::before {
+  content: "★";
+}
+
+.rating9 input:checked ~ label {
+  color: gold;
+}
+
+
+.rating10 {
+  direction: rtl;
+  display: inline-block;
+} 
+
+.rating10 input {
+  display: none;
+}
+
+.rating10 label {
+  font-size: 2rem;
+  color: lightgray;
+  padding: 0.2rem;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+.rating10 label::before {
+  content: "★";
+}
+
+.rating10 input:checked ~ label {
+  color: gold;
+}
+
+
+.rating11 {
+  direction: rtl;
+  display: inline-block;
+} 
+
+.rating11 input {
+  display: none;
+}
+
+.rating11 label {
+  font-size: 2rem;
+  color: lightgray;
+  padding: 0.2rem;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+.rating11 label::before {
+  content: "★";
+}
+
+.rating11 input:checked ~ label {
+  color: gold;
+}
